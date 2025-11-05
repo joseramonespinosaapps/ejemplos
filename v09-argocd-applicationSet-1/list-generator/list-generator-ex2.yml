@@ -19,7 +19,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/devopshobbies/argocd-tutorial.git
+        repoURL: https://github.com/joseramonespinosaapps/ejemplos.git
         targetRevision: main
         path: v03-argocd-applications/{{path}}
       destination:
